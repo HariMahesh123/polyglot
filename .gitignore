@@ -44,3 +44,7 @@ docs/_build
 
 # Notebook checkpoint
 .ipynb_checkpoints
+
+# Vagrant
+Vagrantfile
+.vagrant
